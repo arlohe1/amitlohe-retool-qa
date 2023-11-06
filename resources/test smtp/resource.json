@@ -8,7 +8,7 @@
   "outboundRegion": null,
   "ssl": null,
   "editPrivilege": null,
-  "options": { "host": "test", "port": "11", "username": "" },
+  "options": { "host": "testssss", "port": "11", "username": "" },
   "environment": "production",
   "dynamicallyQueryable": false,
   "uuid": "8e28925f-13db-42eb-b1bb-43d17edd34c4",
