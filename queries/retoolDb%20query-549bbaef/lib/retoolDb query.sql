@@ -1,1 +1,1 @@
-select 1 from testdb;
+select 1;
